@@ -1,6 +1,6 @@
 # MNIST digits classification using PPO
 Solving MNIST classification problem using PPO.\
-The dataset used in this code is from sklearn.  It can be swapped within the MNIST_trainer class with your dataset. \
+The dataset used in this code is from sklearn.  It can be swapped within the MNIST_trainer class in **main.py** with your dataset. \
 The PPO code was derived from an excellent video tutorial on https://youtu.be/hlv79rcHws0 \
 \
 **HOW TO RUN**
