@@ -18,10 +18,8 @@ python main.py
 
 \
 **RESULT**
-\
-The figure below shows accuracies on training and testing dataset after each trial.\
-<img src=https://github.com/bhargavCSSE/MNIST_with_PPO/blob/main/plots/MNIST_classification.png>\
-\
-The figure below shows accuracy vs iterations plot
-<img src=https://github.com/bhargavCSSE/MNIST_with_PPO/blob/main/plots/MNIST-score.png>
-**
+The figure below shows accuracies on training and testing dataset after each trial.
+<img src=https://github.com/bhargavCSSE/MNIST_with_PPO/blob/main/plots/MNIST_classification.png> 
+
+The figure below shows accuracy vs iterations plot. 
+<img src=https://github.com/bhargavCSSE/MNIST_with_PPO/blob/main/plots/MNIST-score.png> 
