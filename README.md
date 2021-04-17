@@ -17,9 +17,10 @@ python main.py
 4. Once the code is finished running, open **plotter.ipynb** and run all the cell to generate a plot in plots folder.
 
 \
-**RESULT**
-The figure below shows accuracies on training and testing dataset after each trial.
+**RESULT** \
+\
+The figure below shows accuracies on training and testing dataset after each trial. \
 <img src=https://github.com/bhargavCSSE/MNIST_with_PPO/blob/main/plots/MNIST_classification.png> 
 
-The figure below shows accuracy vs iterations plot. 
+The figure below shows accuracy vs iterations plot. \
 <img src=https://github.com/bhargavCSSE/MNIST_with_PPO/blob/main/plots/MNIST-score.png> 
